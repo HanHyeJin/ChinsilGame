@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">가치, 같이!</string>
+    <string name="prompt_email">ID Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">로그인</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+    completions."    </string>
+    <string name="multiplay_start_textview_owner">시작버튼을 눌러주세요</string>
+    <string name="multiplay_start_textview_normal">잠시만 기다려주세요</string>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "233358688429",
+    "firebase_url": "https://together-android-cb0ff.firebaseio.com",
+    "project_id": "together-android-cb0ff",
+    "storage_bucket": "together-android-cb0ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233358688429:android:ff6e0592cd17ab94",
+        "android_client_info": {
+          "package_name": "com.example.hyejin.kb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233358688429-cm5lcla3s9sallep74tlt98jp69v7c3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP3XAnV5ga58ryegbtBbHq52nqN5d45uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
